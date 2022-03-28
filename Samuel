@@ -1,0 +1,8 @@
+/*programming my name*/
+#include <stdio.h>
+
+   int main()
+{
+    printf("my name is Samuel");
+return 0;
+}
